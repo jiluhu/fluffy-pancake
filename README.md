@@ -4,7 +4,7 @@
 
   - [GAN](#GAN)
   - [Jupyter](#Jupyter)
-  - [语音处理（SoX）](#语音处理（SoX）)
+  - [语音处理（SoX）](#语音处理SoX)
   - [Nodejs](#Nodejs)
   - [Webhook](#Webhook)
   - [shell](#shell)
@@ -18,7 +18,7 @@
   - [Make](#Make)
   - [Git](#Git)
   - [flask应用](#flask应用)
-  - [头像服务商（gravatar）](#头像服务商(gravatar))
+  - [头像服务商（gravatar）](#头像服务商gravatar)
   - [Phoenix](#Phoenix)
   - [SQL Client](#SQL-Client)
   - [Wordpress](#Wordpress)
