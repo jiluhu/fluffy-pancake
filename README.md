@@ -32,6 +32,7 @@
   - [设计模式](#设计模式)
   - [HBase](#HBase)
   - [Opentsdb](#Opentsdb)
+  - [Markdown](#Markdown)
   - [其他](#其他)
   - [Progress](#Progress)
 
@@ -489,6 +490,10 @@ major compact '表名或region名'
 
 //minor compaction
 compact '表名或region名'
+
+## Markdown
+Github 中 Markdown 锚点链接如何写
+https://my.oschina.net/antsky/blog/1475173
 
 ## 其他
 <details>
