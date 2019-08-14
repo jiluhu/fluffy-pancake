@@ -2,36 +2,40 @@
 
 ## Contents
 
+  - [HBase](#HBase)
+  - [Opentsdb](#Opentsdb)
+  - [Phoenix](#Phoenix)
   - [GAN](#GAN)
-  - [Jupyter](#Jupyter)
+  - [Reinforcement Learning](#Reinforcement-Learning)
   - [语音处理（SoX）](#语音处理SoX)
+
+  - [Jupyter](#Jupyter)
   - [Nodejs](#Nodejs)
   - [Webhook](#Webhook)
   - [shell](#shell)
   - [正则](#正则)
-  - [Reinforcement Learning](#Reinforcement-Learning)
-  - [Serverless](#Serverless)
-  - [The Architecture of Open Source Applications](#The-Architecture-of-Open-Source-Applications)
-  - [翻译词表](#翻译词表)
   - [OAuth](#OAuth)
   - [Puppet运维](#Puppet运维)
   - [Make](#Make)
   - [Git](#Git)
   - [flask应用](#flask应用)
-  - [头像服务商（gravatar）](#头像服务商gravatar)
-  - [Phoenix](#Phoenix)
-  - [SQL Client](#SQL-Client)
+  - [Linux](#Linux)
+  - [Serverless](#Serverless)
+
   - [Wordpress](#Wordpress)
   - [博客技术](#博客技术)
+
   - [SQLite](#SQLite)
-  - [Linux](#Linux)
   - [Mysql](#Mysql)
   - [数据库相关](#数据库相关)
+  - [SQL Client](#SQL-Client)
   - [C](#C)
   - [排序](#排序)
   - [设计模式](#设计模式)
-  - [HBase](#HBase)
-  - [Opentsdb](#Opentsdb)
+
+  - [The Architecture of Open Source Applications](#The-Architecture-of-Open-Source-Applications)
+  - [头像服务商（gravatar）](#头像服务商gravatar)
+  - [翻译词表](#翻译词表)
   - [Markdown](#Markdown)
   - [其他](#其他)
   - [Progress](#Progress)
@@ -520,6 +524,6 @@ Photoshop，Axure，Fireworks，Illustrator、MarkMan、MindManager
 * [ ] spider
 * [ ] dl
 * [ ] leon
-* [ ] Part V
-* [ ] Part VI
+* [ ] C
+* [ ] sqlite
 * [ ] Part VII
