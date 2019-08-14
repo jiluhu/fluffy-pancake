@@ -5,7 +5,7 @@
   - [GAN](#GAN)
   - [Jupyter](#Jupyter)
   - [语音处理（SoX）](#语音处理（SoX）)
-  - [Nodejs#](#Nodejs)
+  - [Nodejs](#Nodejs)
   - [Webhook](#Webhook)
   - [shell](#shell)
   - [正则](#正则)
@@ -17,8 +17,8 @@
   - [Puppet运维](#Puppet运维)
   - [Make](#Make)
   - [Git](#Git)
-  - [flask应用#](#flask应用)
-  - [头像服务商（gravatar）](#头像服务商（gravatar）)
+  - [flask应用](#flask应用)
+  - [头像服务商（gravatar）](#头像服务商(gravatar))
   - [Phoenix](#Phoenix)
   - [SQL Client](#SQL-Client)
   - [Wordpress](#Wordpress)
@@ -173,7 +173,7 @@ https://zzz.buzz/zh/2016/04/19/the-guide-to-git-lfs/
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Sanitizer.min.js"></script>
 
-## 头像服务商（gravatar）
+## 头像服务商(gravatar)
 https://secure.gravatar.com/avatar
 
 ## Phoenix
